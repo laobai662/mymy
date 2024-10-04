@@ -25,7 +25,6 @@ YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
 PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
 BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
 HD臺,http://125.227.210.55:39004/VideoInput/play.ts
-TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 tvbs,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
 台视新闻,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -61,6 +60,7 @@ AMC電影臺,http://61.221.215.25:8800/hls/43/index.m3u8
 24,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
 25,http://38.64.72.148/hls/modn/list/4026/chunklist1.m3u8
 26,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 hakkatv,http://37.27.111.214:8080/live/1/hls.m3u8
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 老电影,http://37.27.111.214:8080/live/11/hls.m3u8
