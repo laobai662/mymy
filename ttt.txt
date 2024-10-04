@@ -1,6 +1,6 @@
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 cnbc,http://125.227.210.55:8152/VideoInput/play.ts
-  hbo,http://125.227.210.55:8153/VideoInput/play.ts
+  HBO,http://125.227.210.55:8153/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
       sex1,http://125.227.210.55:8156/VideoInput/play.ts
@@ -20,7 +20,6 @@ BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
-HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
 TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
 YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
 PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
