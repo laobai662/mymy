@@ -1,1 +1,33 @@
+amc電影台,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8
+中視新聞,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8
+Bloomberg TV,http://152.32.229.52:5050/4gtv-live059/index.m3u8
+華視新聞,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8
+龍華洋片台,http://152.32.229.52:5050/litv-longturn02/index.m3u8
+東森新聞台,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8
 靖天電影台,http://152.32.229.52:5050/4gtv-4gtv061/index.m3u8
+中天新聞台,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8
+寰宇全視界,http://152.32.229.52:5050/ofiii204/index.m3u8
+龍華電影台,http://152.32.229.52:5050/litv-longturn03/index.m3u8
+寰宇新聞台,http://152.32.229.52:5050/litv-longturn14/index.m3u8
+博斯網球台,http://152.32.229.52:5050/litv-longturn09/index.m3u8
+新聞大白話,http://152.32.229.52:5050/ofiii202/index.m3u8
+靖天日本台,http://152.32.229.52:5050/4gtv-4gtv047/index.m3u8
+靖天戲劇台,http://152.32.229.52:5050/4gtv-4gtv058/index.m3u8
+公視金獎,http://152.32.229.52:5050/ofiii13/index.m3u8
+台灣真善美,http://152.32.229.52:5050/ofiii241/index.m3u8 
+民視第一台http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8
+TVBS新聞,http://152.32.229.52:5050/4gtv-4gtv072/index.m3u8
+Golden 強片台,http://152.32.229.52:5050/ofiii70/index.m3u8
+三立新聞iNEWS,http://152.32.229.52:5050/4gtv-live089/index.m3u8
+新唐人亞太台,http://152.32.229.52:5050/4gtv-live050/index.m3u8
+台灣靈異事件,http://152.32.229.52:5050/ofiii150/index.m3u8
+鏡電視新聞台,http://152.32.229.52:5050/4gtv-4gtv075/index.m3u8
+CNBC Asia 財經台,http://152.32.229.52:5050/4gtv-live130/index.m3u8
+KLT-靖天國際台,http://152.32.229.52:5050/4gtv-4gtv063/index.m3u8
+中視,http://152.32.229.52:5050/4gtv-4gtv040/index.m3u8
+History 歷史頻道,http://152.32.229.52:5050/4gtv-live026/index.m3u8
+民視,http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8
+華視,http://152.32.229.52:5050/4gtv-4gtv041/index.m3u8
+MOMO親子台,http://152.32.229.52:5050/4gtv-live107/index.m3u8
+第1商業台,http://152.32.229.52:5050/4gtv-4gtv104/index.m3u8
+TVBS精采台,http://152.32.229.52:5050/4gtv-4gtv067/index.m3u8
