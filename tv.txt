@@ -3,6 +3,7 @@
 三立台湾,http://205.185.120.57:8081/channel/n7c051b18/index.m3u8
 Cinema WORD,http://152.32.229.52:5050/4gtv-live069/index.m3u8
 amc電影台,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8
+非凡新闻,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8
 中視新聞,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8
 Bloomberg TV,http://152.32.229.52:5050/4gtv-live059/index.m3u8
 華視新聞,http://152.32.229.52:5050/4gtv-4gtv052/index.m3u8
@@ -40,7 +41,6 @@ TVBS精采台,http://152.32.229.52:5050/4gtv-4gtv067/index.m3u8
 综艺,http://152.32.229.52:5050/4gtv-4gtv004/index.m3u8
 猪哥亮,http://152.32.229.52:5050/4gtv-4gtv006/index.m3u8
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8
-非凡新闻,http://152.32.229.52:5050/4gtv-4gtv010/index.m3u8
 FGM GOLD,http://152.32.229.52:5050/4gtv-4gtv011/index.m3u8
 CNEX,http://152.32.229.52:5050/4gtv-4gtv013/index.m3u8
 尚义运动,http://152.32.229.52:5050/4gtv-4gtv014/index.m3u8
