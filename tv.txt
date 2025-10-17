@@ -1,5 +1,7 @@
 4k,http://221.219.176.90:9003/hls/1000001/index.m3u8
 陶电影,http://221.219.176.90:9003/hls/100001/index.m3u8
+三立台湾,http://205.185.120.57:8081/channel/n7c051b18/index.m3u8
+Cinema WORD,http://152.32.229.52:5050/4gtv-live069/index.m3u8
 amc電影台,http://152.32.229.52:5050/4gtv-4gtv017/index.m3u8
 中視新聞,http://152.32.229.52:5050/4gtv-4gtv074/index.m3u8
 Bloomberg TV,http://152.32.229.52:5050/4gtv-live059/index.m3u8
@@ -87,7 +89,6 @@ SPORT,http://152.32.229.52:5050/4gtv-4gtv077/index.m3u8
 LIVE,http://152.32.229.52:5050/4gtv-4gtv083/index.m3u8
 国会1,http://152.32.229.52:5050/4gtv-4gtv084/index.m3u8
 国会2,http://152.32.229.52:5050/4gtv-4gtv085/index.m3u8
-Cinema WORD,http://152.32.229.52:5050/4gtv-live069/index.m3u8
 大爱,http://152.32.229.52:5050/4gtv-live007/index.m3u8
 人间卫视,http://152.32.229.52:5050/4gtv-live008/index.m3u8
 影剧,http://152.32.229.52:5050/4gtv-live010/index.m3u8
