@@ -1,5 +1,6 @@
 4k,http://221.219.176.90:9003/hls/1000001/index.m3u8
 陶电影,http://221.219.176.90:9003/hls/100001/index.m3u8
+电影,http://152.32.229.52:5050/4gtv-live080/index.m3u8
 三立台湾,http://205.185.120.57:8081/channel/n7c051b18/index.m3u8
 Cinema WORD,http://152.32.229.52:5050/4gtv-live069/index.m3u8
 HBO hits,http://205.185.120.57:8081/channel/n4a22671d/index.m3u8
